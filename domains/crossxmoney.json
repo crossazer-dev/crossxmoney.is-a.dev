@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "crossazer-dev",
+    "email": "x.crossazer@proton.me"
+  },
+  "records": {
+    "CNAME": "NS1.SITE4NOW.NET,​NS2.SITE4NOW.NET,NS3.SITE4NOW.NET",
+    "A": "70.39.90.71"
+  },
+  "proxied": true
+}
